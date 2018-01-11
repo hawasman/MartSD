@@ -24,7 +24,9 @@ export default class App extends Component<{}> {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Hello, World
+          Hi there,
+          if you're seening this then thankyou for been a tester for this app,
+          if you don't want to then Suck it you are :).
         </Text>
       </View>
     );
