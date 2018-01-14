@@ -1,17 +1,11 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- * @flow
- */
-
 import React, { Component } from 'react';
 import {
   Platform,
   StyleSheet,
-  Text,
-  View
+  View, 
+  TouchableOpacity
 } from 'react-native';
-import { NavigationBar, ListView, Screen, Image, Title, Subtitle, Divider, TouchableOpacity, Card  } from '@shoutem/ui';
+import { Text, Button, NavigationBar, ListView, Screen, Image, Title, Subtitle, Divider, Card, GridRow  } from '@shoutem/ui';
 
 
 const instructions = Platform.select({
