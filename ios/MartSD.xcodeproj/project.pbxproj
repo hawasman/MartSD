@@ -5,6 +5,7 @@
 	};
 	objectVersion = 46;
 	objects = {
+
 /* Begin PBXBuildFile section */
 		00C302E51ABCBA2D00DB3ED1 /* libRCTActionSheet.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302AC1ABCB8CE00DB3ED1 /* libRCTActionSheet.a */; };
 		00C302E71ABCBA2D00DB3ED1 /* libRCTGeolocation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302BA1ABCB90400DB3ED1 /* libRCTGeolocation.a */; };
@@ -36,6 +37,7 @@
 		5E9157361DD0AC6A00FF2AA8 /* libRCTAnimation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E9157331DD0AC6500FF2AA8 /* libRCTAnimation.a */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
+<<<<<<< HEAD
 		15F09B0FD8F44FBF95F94077 /* libAppCenterReactNative.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A9ADEDA51F8245E59C0148DE /* libAppCenterReactNative.a */; };
 		4A9DC7BA7BE3429EBA8B211F /* AppCenter-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = EFDA5CB916774A4D9EC7F3D4 /* AppCenter-Config.plist */; };
 		1BD12038F0D9499A9D30638C /* libAppCenterReactNativeAnalytics.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 713984305E0A4BF0B250A780 /* libAppCenterReactNativeAnalytics.a */; };
@@ -64,6 +66,8 @@
 		E41A9F1E36204245A9484215 /* Rubik-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DB711A814E6B4F568825BAC0 /* Rubik-Medium.ttf */; };
 		964D46615663447A8EF07DCF /* Rubik-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 38CDBA0A8B43431EA4DDD5F2 /* Rubik-MediumItalic.ttf */; };
 		E88E86FB46C74CFFA61DD3A7 /* Rubik-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F2F68DEB1E8C4E549D6F3B88 /* Rubik-Regular.ttf */; };
+=======
+>>>>>>> parent of e8b1582... added appcenter
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -313,6 +317,7 @@
 		78C398B01ACF4ADC00677621 /* RCTLinking.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTLinking.xcodeproj; path = "../node_modules/react-native/Libraries/LinkingIOS/RCTLinking.xcodeproj"; sourceTree = "<group>"; };
 		832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTText.xcodeproj; path = "../node_modules/react-native/Libraries/Text/RCTText.xcodeproj"; sourceTree = "<group>"; };
 		ADBDB91F1DFEBF0600ED6528 /* RCTBlob.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTBlob.xcodeproj; path = "../node_modules/react-native/Libraries/Blob/RCTBlob.xcodeproj"; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		0E938F18FB1F4FF3A8C568FC /* AppCenterReactNative.xcodeproj */ = {isa = PBXFileReference; name = "AppCenterReactNative.xcodeproj"; path = "../node_modules/appcenter/ios/AppCenterReactNative.xcodeproj"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.pb-project; explicitFileType = undefined; includeInIndex = 0; };
 		A9ADEDA51F8245E59C0148DE /* libAppCenterReactNative.a */ = {isa = PBXFileReference; name = "libAppCenterReactNative.a"; path = "libAppCenterReactNative.a"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = archive.ar; explicitFileType = undefined; includeInIndex = 0; };
 		EFDA5CB916774A4D9EC7F3D4 /* AppCenter-Config.plist */ = {isa = PBXFileReference; name = "AppCenter-Config.plist"; path = "MartSD/AppCenter-Config.plist"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = text.plist.xml; explicitFileType = undefined; includeInIndex = 0; };
@@ -347,6 +352,8 @@
 		DB711A814E6B4F568825BAC0 /* Rubik-Medium.ttf */ = {isa = PBXFileReference; name = "Rubik-Medium.ttf"; path = "../node_modules/@shoutem/ui/fonts/Rubik-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		38CDBA0A8B43431EA4DDD5F2 /* Rubik-MediumItalic.ttf */ = {isa = PBXFileReference; name = "Rubik-MediumItalic.ttf"; path = "../node_modules/@shoutem/ui/fonts/Rubik-MediumItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		F2F68DEB1E8C4E549D6F3B88 /* Rubik-Regular.ttf */ = {isa = PBXFileReference; name = "Rubik-Regular.ttf"; path = "../node_modules/@shoutem/ui/fonts/Rubik-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+=======
+>>>>>>> parent of e8b1582... added appcenter
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -375,12 +382,15 @@
 				832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */,
 				00C302EA1ABCBA2D00DB3ED1 /* libRCTVibration.a in Frameworks */,
 				139FDEF61B0652A700C62182 /* libRCTWebSocket.a in Frameworks */,
+<<<<<<< HEAD
 				15F09B0FD8F44FBF95F94077 /* libAppCenterReactNative.a in Frameworks */,
 				1BD12038F0D9499A9D30638C /* libAppCenterReactNativeAnalytics.a in Frameworks */,
 				BD3079875F9F41218DC09EBE /* libAppCenterReactNativeCrashes.a in Frameworks */,
 				A88F54AA5A7948A9AD4A5A4E /* libRNVectorIcons.a in Frameworks */,
 				51FD0765DFB446199022619E /* libBVLinearGradient.a in Frameworks */,
 				8747829D67E84E58AB1F5506 /* libRNPhotoView.a in Frameworks */,
+=======
+>>>>>>> parent of e8b1582... added appcenter
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -558,12 +568,15 @@
 				832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */,
 				00C302DF1ABCB9EE00DB3ED1 /* RCTVibration.xcodeproj */,
 				139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */,
+<<<<<<< HEAD
 				0E938F18FB1F4FF3A8C568FC /* AppCenterReactNative.xcodeproj */,
 				6C831CDBC79D457199948A18 /* AppCenterReactNativeAnalytics.xcodeproj */,
 				89CB34AA42004CAD9E7A970C /* AppCenterReactNativeCrashes.xcodeproj */,
 				EB47C9A302CE4BC68C0B13D6 /* RNVectorIcons.xcodeproj */,
 				C51F77D603E0484C9AA64EE0 /* BVLinearGradient.xcodeproj */,
 				A242FF92EE4D4ED1A1F27D4D /* RNPhotoView.xcodeproj */,
+=======
+>>>>>>> parent of e8b1582... added appcenter
 			);
 			name = Libraries;
 			sourceTree = "<group>";
@@ -585,8 +598,11 @@
 				00E356EF1AD99517003FC87E /* MartSDTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
+<<<<<<< HEAD
 				EFDA5CB916774A4D9EC7F3D4 /* AppCenter-Config.plist */,
 				BAD517B11B494DC393743501 /* Resources */,
+=======
+>>>>>>> parent of e8b1582... added appcenter
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -723,7 +739,7 @@
 		83CBB9F71A601CBA00E9B192 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 610;
+				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = Facebook;
 				TargetAttributes = {
 					00E356ED1AD99517003FC87E = {
@@ -1032,6 +1048,7 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
+<<<<<<< HEAD
 				4A9DC7BA7BE3429EBA8B211F /* AppCenter-Config.plist in Resources */,
 				A2C9DA58E46C48088FC6C518 /* Entypo.ttf in Resources */,
 				834D9971B7974FC9B22FD922 /* EvilIcons.ttf in Resources */,
@@ -1054,6 +1071,8 @@
 				E41A9F1E36204245A9484215 /* Rubik-Medium.ttf in Resources */,
 				964D46615663447A8EF07DCF /* Rubik-MediumItalic.ttf in Resources */,
 				E88E86FB46C74CFFA61DD3A7 /* Rubik-Regular.ttf in Resources */,
+=======
+>>>>>>> parent of e8b1582... added appcenter
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1185,6 +1204,7 @@
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MartSD.app/MartSD";
+<<<<<<< HEAD
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
@@ -1203,6 +1223,8 @@
 					"$(SRCROOT)\..\node_modules\react-native-linear-gradient\BVLinearGradient",
 					"$(SRCROOT)\..\node_modules\react-native-photo-view\ios/**",
 				);
+=======
+>>>>>>> parent of e8b1582... added appcenter
 			};
 			name = Debug;
 		};
@@ -1220,6 +1242,7 @@
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MartSD.app/MartSD";
+<<<<<<< HEAD
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
@@ -1238,6 +1261,8 @@
 					"$(SRCROOT)\..\node_modules\react-native-linear-gradient\BVLinearGradient",
 					"$(SRCROOT)\..\node_modules\react-native-photo-view\ios/**",
 				);
+=======
+>>>>>>> parent of e8b1582... added appcenter
 			};
 			name = Release;
 		};
@@ -1256,6 +1281,7 @@
 				);
 				PRODUCT_NAME = MartSD;
 				VERSIONING_SYSTEM = "apple-generic";
+<<<<<<< HEAD
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)\..\node_modules\appcenter\ios\AppCenterReactNative",
@@ -1265,6 +1291,8 @@
 					"$(SRCROOT)\..\node_modules\react-native-linear-gradient\BVLinearGradient",
 					"$(SRCROOT)\..\node_modules\react-native-photo-view\ios/**",
 				);
+=======
+>>>>>>> parent of e8b1582... added appcenter
 			};
 			name = Debug;
 		};
@@ -1282,6 +1310,7 @@
 				);
 				PRODUCT_NAME = MartSD;
 				VERSIONING_SYSTEM = "apple-generic";
+<<<<<<< HEAD
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)\..\node_modules\appcenter\ios\AppCenterReactNative",
@@ -1291,6 +1320,8 @@
 					"$(SRCROOT)\..\node_modules\react-native-linear-gradient\BVLinearGradient",
 					"$(SRCROOT)\..\node_modules\react-native-photo-view\ios/**",
 				);
+=======
+>>>>>>> parent of e8b1582... added appcenter
 			};
 			name = Release;
 		};
@@ -1317,6 +1348,7 @@
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 9.2;
+<<<<<<< HEAD
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
@@ -1335,6 +1367,8 @@
 					"$(SRCROOT)\..\node_modules\react-native-linear-gradient\BVLinearGradient",
 					"$(SRCROOT)\..\node_modules\react-native-photo-view\ios/**",
 				);
+=======
+>>>>>>> parent of e8b1582... added appcenter
 			};
 			name = Debug;
 		};
@@ -1361,6 +1395,7 @@
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 9.2;
+<<<<<<< HEAD
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
@@ -1379,6 +1414,8 @@
 					"$(SRCROOT)\..\node_modules\react-native-linear-gradient\BVLinearGradient",
 					"$(SRCROOT)\..\node_modules\react-native-photo-view\ios/**",
 				);
+=======
+>>>>>>> parent of e8b1582... added appcenter
 			};
 			name = Release;
 		};
@@ -1400,6 +1437,7 @@
 				SDKROOT = appletvos;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MartSD-tvOS.app/MartSD-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
+<<<<<<< HEAD
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
@@ -1409,6 +1447,8 @@
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
+=======
+>>>>>>> parent of e8b1582... added appcenter
 			};
 			name = Debug;
 		};
@@ -1430,6 +1470,7 @@
 				SDKROOT = appletvos;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MartSD-tvOS.app/MartSD-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
+<<<<<<< HEAD
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
@@ -1439,6 +1480,8 @@
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
+=======
+>>>>>>> parent of e8b1582... added appcenter
 			};
 			name = Release;
 		};

@@ -1,4 +1,5 @@
 rootProject.name = 'MartSD'
+<<<<<<< HEAD
 include ':react-native-photo-view'
 project(':react-native-photo-view').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-photo-view/android')
 include ':react-native-linear-gradient'
@@ -11,5 +12,7 @@ include ':appcenter-analytics'
 project(':appcenter-analytics').projectDir = new File(rootProject.projectDir, '../node_modules/appcenter-analytics/android')
 include ':appcenter'
 project(':appcenter').projectDir = new File(rootProject.projectDir, '../node_modules/appcenter/android')
+=======
+>>>>>>> parent of e8b1582... added appcenter
 
 include ':app'

@@ -7,10 +7,13 @@
     "test": "jest"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@shoutem/ui": "^0.22.4",
     "appcenter": "^1.1.0",
     "appcenter-analytics": "^1.1.0",
     "appcenter-crashes": "^1.1.0",
+=======
+>>>>>>> parent of e8b1582... added appcenter
     "react": "16.2.0",
     "react-native": "0.52.0"
   },
