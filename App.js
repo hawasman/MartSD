@@ -1,5 +1,20 @@
 import React, { Component } from 'react';;
-import { Text, View, TouchableOpacity, Button, NavigationBar, ListView, Screen, Image, Title, Subtitle, Divider, Card, GridRow  } from '@shoutem/ui';
+import {
+  Caption,
+  Icon,
+  Card,
+  Image,
+  ListView,
+  Tile,
+  Title,
+  Subtitle,
+  TouchableOpacity,
+  Screen,
+  Divider,
+} from '@shoutem/ui';
+import {
+  NavigationBar,
+} from '@shoutem/ui/navigation';
 
 
 export default class App extends Component<{}> {
